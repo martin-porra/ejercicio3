@@ -1,0 +1,20 @@
+1,Martin,ASD,Honda,150.78
+2,Agustin,LRO 323,Volvo,478.654
+3,Pedro,PRE 321,Mercedes,458.654
+4,Santiago,LOF 324,Volvo,154.5
+5,Lucas,DSF 321,Toyota,354.654
+6,Julian,CSD 231,Honda,214.35
+7,Andres,XDF 687,Iveco,215.356
+8,Mariano,CSD 321,Iveco,452.12
+9,Matias,LFS 312,Ford,123.45
+10,Roberto,AA156792,Honda,1757
+11,Leandro,AB612861,Volvo,2099
+12,Ricardo,AD78124,Toyota,1890
+13,Felipe,AC87123,Hyundai,1643
+14,Daniel,AD16827,Mercedes Benz,2177
+15,Nicolás,AA99125,Iveco,1589
+16,Alfredo,AB771134,Honda,2010
+17,Hector,AD55982,Iveco,1994
+18,Sebastián,AA33992,Volvo,2012
+19,Francisco,AD78293,Iveco,1845
+20,Ramiro,AB120035,Ford,2006
